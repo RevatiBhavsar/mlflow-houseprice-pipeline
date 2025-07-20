@@ -7,11 +7,11 @@ This repository demonstrates how to take a simple machine learning model and tur
 
 ## 🚀 Key Concepts Demonstrated
 
-- 🧱 **Modular Pipelines** with [ZenML](https://zenml.io/)
-- 🔁 **Reusable Design Patterns** (Factory, Strategy, Template)
-- 📊 **MLflow** for experiment tracking and model registry
-- ⚙️ Clean separation of ingestion, preprocessing, training, evaluation, and deployment
-- 📦 CI/CD and MLOps-ready structure
+-  **Modular Pipelines** with [ZenML](https://zenml.io/)
+-  **Reusable Design Patterns** (Factory, Strategy, Template)
+-  **MLflow** for experiment tracking and model registry
+-  Clean separation of ingestion, preprocessing, training, evaluation, and deployment
+-  CI/CD and MLOps-ready structure
 
 ## 📁 Project Structure
 
@@ -66,15 +66,6 @@ This project is ideal for:
 - **MLOps enthusiasts** looking to build reproducible and modular ML systems
 - Engineers who want to **apply software design patterns** to data pipelines
 
-## 📸 Screenshots & Architecture
-
-| EDA Modules | Deployment Pipeline | MLflow Logs |
-|-------------|----------------------|-------------|
-| *(add images if needed)* | *(add architecture diagram)* | *(add MLflow UI screenshot)* |
-
-## 🧾 License
-
-This project is open source under the [MIT License](LICENSE).
 
 ## 🙋‍♀️ Author
 
